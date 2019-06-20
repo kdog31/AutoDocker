@@ -1,2 +1,2 @@
 # AutoDocker
-Automatically Search subdolfers and launch docker containers
+Automatically Search sub-folders and launch docker containers
