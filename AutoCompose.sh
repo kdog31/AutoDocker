@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Docker auto-compose V1
+#Docker auto-compose V1.0-Alpha
 
 RED='\033[0;31m'
 GREEN='\033[0;32m'
